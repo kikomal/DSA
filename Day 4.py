@@ -4,15 +4,8 @@ def search(num, n, a):
             pos=i
             print("Given value is found at", pos+1)
             break
-        else:
-            print("Number not found")
-            break
-        
-
-
-
-
-
+    
+    print("Number not found")
 
 n=int(input("Enter the size of array: "))
 a=[]
