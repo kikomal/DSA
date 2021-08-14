@@ -1,3 +1,4 @@
+# Linear seach
 def search(num, n, a):
     for i in range(n):
         if a[i]==num:
