@@ -15,8 +15,8 @@ def merge(a1, a2, x, y):
     while i<x:
         arr.append(a1[i])
         i+=1
-        while j<y:
-            arr.append(a2[j])
+    while j<y:
+         arr.append(a2[j])
             j+=1
         
 
